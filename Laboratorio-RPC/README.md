@@ -59,7 +59,7 @@ A continuación, en la figura 1, se presenta la arquitectura que se va implement
 
 De esta forma, ambos servicios se podrán comunicar entre sí utilizando gRPC. Para lograr esto, se requiere la definición de un la interfaz de servicio así como la códificación de cada uno de los servicios en cada uno de los lenguajes.
 
-![Arquitectura a Desplegar](./back/img/img_architecture.png)
+![Arquitectura a Desplegar](./Back/img/img_architecture.png)
 
 <div id='instance'/> 
 
