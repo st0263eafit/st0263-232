@@ -1,6 +1,6 @@
 ST0263 TÓPICOS ESPECIALES EN TELEMÁTICA, 2023-2
 
-LAB 5-1: GESTIÓN DE ARCHIVOS EN HDFS Y S3 PARA BIG DATA
+LAB 3-1: GESTIÓN DE ARCHIVOS EN HDFS Y S3 PARA BIG DATA
 
 Fecha sugerida de terminación de este lab antes del 8 de noviembre 2023.
 
@@ -14,7 +14,7 @@ HACER LAS ACTIVIDADES PROPUESTAS EN:
 
 https://github.com/st0263eafit/st0263-232/tree/main/bigdata/01-hdfs
 
-3. Tener en cuenta la creación previa en el lab 5-0 de la creación de un clúster EMR (ver videos previamente enviados), activará HUE, recuerden que deben crear un user 'hadoop' con la clave que gusten.
+3. Tener en cuenta la creación previa en el lab3-0 de la creación de un clúster EMR (ver videos previamente enviados), activará HUE, recuerden que deben crear un user 'hadoop' con la clave que gusten.
 
 También se deben conectar vía shell (ssh) al nodo master del clúster EMR, donde realizará las actividades de HDFS CLI
 
@@ -38,6 +38,6 @@ https://github.com/st0263eafit/st0263-232/tree/main/bigdata/datasets
 
 Respecto a los buckets S3, deberán quedar de lectura pública (una simple consulta google: aws s3 public access, les dará los tips para lograrlo).
 
-Este informe lab5-0, debe ser enviado por email de Interactiva Virtual, especificando explícitamente la URL de bucket publico donde están los datasets de trabajo.
+Este informe lab3-0, debe ser enviado por email de Interactiva Virtual, especificando explícitamente la URL de bucket publico donde están los datasets de trabajo.
 
 Además debe depositar las evidencias en el formato template distribuido a cada estudiante en el onedrive de la materia.
