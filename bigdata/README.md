@@ -26,8 +26,7 @@ Utilizando la cuenta de amazon educate, y los videos compartidos para la clase, 
 
 VER MÁS INDICACIONES EN:
 
-*[Lab5-1](lab5-1-aws-emr.txt)
-*[Lab5-2](lab5-2-hdfs-s3.txt)
+*[Lab5-1](lab5-1-hdfs-s3.txt)
 
 Copiar todos los archivos del [datasets](datasets) tanto en S3 (permanente) y en HDFS (temporales). 
 
